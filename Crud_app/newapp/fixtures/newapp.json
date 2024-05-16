@@ -1,0 +1,18 @@
+[
+    {
+        "model": "key_value_store.keyvalue",
+        "pk": 1,
+        "fields": {
+            "key": "dummy_key_1",
+            "value": "dummy_value_1"
+        }
+    },
+    {
+        "model": "key_value_store.keyvalue",
+        "pk": 2,
+        "fields": {
+            "key": "dummy_key_2",
+            "value": "dummy_value_2"
+        }
+    }
+]
